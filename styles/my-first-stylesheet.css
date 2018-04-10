@@ -52,7 +52,7 @@ img {
   background-color: lightblue;
   text-align: center;
   width: 40rem;
-  height: 6rem;
+  height: 7rem;
   padding: 0 8rem;
   margin: 8
   
@@ -67,7 +67,7 @@ article {
 }
 
 .document-history p {
-  color: red;
+  font-family: sans-serif;
 }
 
 
